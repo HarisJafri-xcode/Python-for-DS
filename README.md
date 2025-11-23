@@ -9,7 +9,8 @@ Each topic folder contains Google Colab notebooks that can be opened and run dir
 - 03-Pandas  
 - 04-Scikit-Learn  
 - 05-Datasets  
-- 06-Utils  
+- 06-Utils
+- 07-Projects  
 
 ## How to Use
 1. Pick a topic and notebook.  
